@@ -1,4 +1,9 @@
-Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de IBM Data Analyst Capstone Project science de IBM
+## Descripción del proyecto
+
+El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de IBM Data Analyst Capstone Project science de IBM, para lo cual se plantea el siguiente problema:
+
+Se requiere scrapear los datos, hacer un analisis exploratorio de los datos, crear un panel interactivo con cognos y presentar los datos.
+
 
 ## Modulos
 
@@ -22,10 +27,8 @@ Este modulo contiene la creación de un dashboard interactivo para visualizar lo
 
 Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos.
 
-## Descripción del proyecto
 
-### 1. Objetivo
+# Disclaimers
 
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de IBM Data Analyst Capstone Project science de IBM, para lo cual se plantea el siguiente problema:
+Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de IBM Data Analyst Capstone Project science de IBM
 
-Se requiere scrapear los datos, hacer un analisis exploratorio de los datos, crear un panel interactivo con cognos y presentar los datos.
