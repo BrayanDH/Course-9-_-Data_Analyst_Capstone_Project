@@ -1,4 +1,6 @@
-## Descripción del proyecto
+# Data Analyst Capstone
+
+## Descripción
 
 El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de IBM Data Analyst Capstone Project science de IBM, para lo cual se plantea el siguiente problema:
 
