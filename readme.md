@@ -31,6 +31,6 @@ In the final module, the project culminates with the presentation of the results
 This Data Analyst Capstone project showcases the skills and techniques applied in data analysis and visualization to draw meaningful conclusions from the data.
 
 
-# Disclaimers
+### Disclaimers
 
 This repository contains the necessary files for the final project submission of the IBM Data Analyst Capstone Project course by IBM.
