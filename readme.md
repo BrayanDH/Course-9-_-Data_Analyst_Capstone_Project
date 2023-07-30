@@ -1,36 +1,35 @@
 # Data Analyst Capstone
 
-## Descripción
+## Description
 
-El objetivo de este proyecto es aplicar los conocimientos adquiridos en el curso de IBM Data Analyst Capstone Project science de IBM, para lo cual se plantea el siguiente problema:
+The Data Analyst Capstone project aims to apply the knowledge acquired in the IBM Data Analyst Capstone Project course by IBM. The project focuses on solving the following problem:
 
-Se requiere scrapear los datos, hacer un analisis exploratorio de los datos, crear un panel interactivo con cognos y presentar los datos.
+The project involves web scraping to gather relevant data, performing exploratory data analysis, creating an interactive dashboard using Cognos, and finally, presenting the data.
+
+## Modules
+
+### 1. Section 1
+
+This module contains the code for data acquisition through web scraping.
+
+### 2. Section 2
+
+In this module, the data undergoes data wrangling and preparation.
+
+### 3. Section 3
+
+This module involves conducting an exploratory data analysis to gain insights.
+
+### 4. Section 4
+
+The fourth section is dedicated to creating an interactive dashboard that visualizes the results from the exploratory data analysis.
+
+### 5. Section 5
+
+In the final module, the project culminates with the presentation of the results obtained from the exploratory data analysis.
+
+This Data Analyst Capstone project showcases the skills and techniques applied in data analysis and visualization to draw meaningful conclusions from the data.
 
 
-## Modulos
-
-### 1 Sección 1
-
-Este modulo contiene el codigo para obtener los datos.
-
-### 2 Sección 2
-
-Este modulo contiene el data wrangling de los datos.
-
-### 3 Sección 3
-
-Este modulo contiene el analisis exploratorio de los datos.
-
-### 4 Sección 4
-
-Este modulo contiene la creación de un dashboard interactivo para visualizar los resultados del analisis exploratorio de los datos.
-
-### 5 Sección 5
-
-Este modulo contiene la presentación de los resultados del analisis exploratorio de los datos.
-
-
-# Disclaimers
-
-Este repo contiene los archivos necesarios para la entrega del proyecto final del curso de IBM Data Analyst Capstone Project science de IBM
-
+Disclaimers
+This repository contains the necessary files for the final project submission of the IBM Data Analyst Capstone Project course by IBM.
